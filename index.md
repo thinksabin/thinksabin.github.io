@@ -4,8 +4,10 @@ layout: home
 permalink: /
 ---
 
-# Hi I'm nobody,
+# Hi,
+My background and core competence is security engineering and DevOps, but I love the whole process of building products. Though I rarely write code, I enjoy writing code. 
+<p>
+With few years of experience in security engineering and DevOps, I'm looking forward to bring DevSecOps into action as much as possible.
 
-You have landed into thinksabin's Github io page. If this is an accident then please close your browser tab or you can go back and forward wherever. But if its not then enjoy and do reach out to me if need be. :)
-<br>
-With this page I am just saving search time of your OSINT tools. :P :D
+<p>
+I love to share my understanding and knowledge and always greatful if I get corrected. :)

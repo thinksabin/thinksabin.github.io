@@ -1,5 +1,5 @@
 ---
-title: '#/bin/whatever'
+title: 'code'
 layout: home
 permalink: /codes
 ---

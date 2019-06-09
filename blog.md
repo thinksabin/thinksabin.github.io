@@ -1,7 +1,7 @@
 ---
-title: vi
+title: blog
 layout: home
-permalink: /man
+permalink: /blog
 ---
 
 # Sometimes I do share my stupidity.
